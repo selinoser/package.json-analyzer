@@ -1,6 +1,6 @@
 # 📦 Package.json Analyzer
 
-A React-based developer tool that analyzes `package.json` files, lists dependencies, detects outdated packages using the npm registry, and estimates bundle size.
+A React-based developer tool (AI-assisted) that analyzes package.json files, lists dependencies, detects outdated packages using the npm registry, and estimates bundle size.
 
 ---
 
